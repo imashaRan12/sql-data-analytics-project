@@ -47,7 +47,7 @@ The image above outlines the step-by-step progression of this project:
 
 ---
 
-## 🚀 🚀 Getting Started
+## 🚀 Getting Started
 
 1. Clone this repository:
    ```bash
